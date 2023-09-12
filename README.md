@@ -38,5 +38,5 @@ Eu sou Werik, um desenvolvedor júnior com formação em Análise e Desenvolvime
 🌐 Redes sociais:
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
-![Instagram](https://https://www.instagram.com/weriksousa_/&img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+![[Instagram](https://www.instagram.com/weriksousa_/)](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 
