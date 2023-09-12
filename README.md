@@ -13,5 +13,5 @@ Eu sou Werik, um desenvolvedor júnior com formação em Análise e Desenvolvime
 
 # 📈 Estatísticas 
 
-![](https://github-readme-stats.vercel.app/api?username=Werik-Sousa&show_icons=true&theme=dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Werik-Sousa&show_icons=true&theme=dracula)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula)
