@@ -1,5 +1,6 @@
+<img src="https://widgetbite.com/banner?title=Werik%20Sousa&subtitle=Software%20Developer&backgroundpalette=autumn&fontpalette=none&titletransform=none&subtitletransform=none" width=50% height=20%/>
+
 ### Hi there 👋
- <img src="https://widgetbite.com/banner?title=Werik%20Sousa&subtitle=Software%20Developer&backgroundpalette=autumn&fontpalette=none&titletransform=none&subtitletransform=none" width=50% height=20%/>
 
 Eu sou Werik, um desenvolvedor júnior com formação em Análise e Desenvolvimento de Sistemas, apaixonado por programação e motivado para crescer na área. Com sede de aprendizado e determinação, estou empenhado em enfrentar desafios técnicos e aprimorar minhas habilidades, buscando oportunidades para contribuir ativamente no desenvolvimento de soluções de software eficazes e inovadoras. Estou ansioso para colaborar em projetos que me permitam adquirir experiência valiosa e continuar minha jornada como profissional de TI.
 
@@ -9,7 +10,7 @@ Eu sou Werik, um desenvolvedor júnior com formação em Análise e Desenvolvime
  Além disso, desenvolvi competência em gerenciamento de bancos de dados, com conhecimento prático em MySQL, permitindo-me criar e otimizar estruturas de dados eficazes para aplicações. Minha jornada também inclui o aprendizado e a aplicação de metodologias ágeis, como o SCRUM, que enfatizam a colaboração eficaz e a entrega incremental de projetos.
  Estou determinado a aplicar meu aprendizado teórico e minha vontade de aprender em um ambiente de trabalho real, onde possa contribuir de maneira significativa e continuar aprimorando minhas competências como programador. Estou ansioso para abraçar novos desafios e oportunidades que me permitam crescer e desenvolver-me profissionalmente na área de desenvolvimento de software.
 
-# ♨ 🦾 💾 Languages and Tools
+# ♨ 💾 Languages and Tools
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
@@ -30,13 +31,27 @@ Eu sou Werik, um desenvolvedor júnior com formação em Análise e Desenvolvime
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 
-# 📈 Estatísticas 
 
-![](https://github-readme-stats.vercel.app/api?username=Werik-Sousa&show_icons=true&theme=dracula)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula)
+# 📈 Statistics 
 
-🌐 Redes sociais:
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
-![[Instagram](https://www.instagram.com/weriksousa_/)](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+<p align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Werik-Sousa&layout=compact&theme=dracula&title_color=03D361&bg_color=21262d"
+    />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=Werik-Sousa&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=dracula&title_color=03D361&bg_color=21262d"
+    />
+  </a>
+</p>
+
+🌐 Web:
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/werik-sousa/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/weriksousa_)
 
