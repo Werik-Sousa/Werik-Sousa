@@ -1,5 +1,5 @@
 ### Hi there 👋
- <img src="https://widgetbite.com/banner?title=Werik%20Sousa&subtitle=Software%20Developer&backgroundpalette=autumn&fontpalette=none&titletransform=none&subtitletransform=none" width=80% height=80%/>
+ <img src="https://widgetbite.com/banner?title=Werik%20Sousa&subtitle=Software%20Developer&backgroundpalette=autumn&fontpalette=none&titletransform=none&subtitletransform=none" width=100% height=50%/>
 
 Eu sou Werik, um desenvolvedor júnior com formação em Análise e Desenvolvimento de Sistemas, apaixonado por programação e motivado para crescer na área. Com sede de aprendizado e determinação, estou empenhado em enfrentar desafios técnicos e aprimorar minhas habilidades, buscando oportunidades para contribuir ativamente no desenvolvimento de soluções de software eficazes e inovadoras. Estou ansioso para colaborar em projetos que me permitam adquirir experiência valiosa e continuar minha jornada como profissional de TI.
 
@@ -12,3 +12,4 @@ Eu sou Werik, um desenvolvedor júnior com formação em Análise e Desenvolvime
 # Tecnologias 
 
 # 📈 Estatísticas 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Werik-Sousa)](https://github.com/anuraghazra/github-readme-stats)
