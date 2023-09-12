@@ -13,7 +13,6 @@ Eu sou Werik, um desenvolvedor júnior com formação em Análise e Desenvolvime
 
 # 📈 Estatísticas 
 
-![Anurag's GitHub stats]([https://github-readme-stats.vercel.app/api?username=Werik-Sousa&show_icons=true&theme=dracula](https://github-readme-stats-wheat-two-53.vercel.app/api?username=Werik-Sousa&theme=neon&hide_border=false&include_all_commits=false&count_private=false))
-
-<img src = "  https://github-readme-stats-wheat-two-53.vercel.app/api?username=Werik-Sousa&theme=neon&hide_border=false&include_all_commits=false&count_private=false " largura = " 364px " /> < img src = "  https://github-readme-streak-stats.herokuapp.com/?user=Werik-Sousa&theme=neon&hide_border=false " largura = " 400px "/> 
-![ ] (https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=lauragrassig&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact ) 
+![Werik Sousa GitHub stats](https://github-readme-stats.vercel.app/api?username=Werik-Sousa&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=Werik-Sousa&show_icons=true&theme=Dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
