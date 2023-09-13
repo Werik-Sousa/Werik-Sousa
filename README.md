@@ -1,4 +1,8 @@
-<img src="https://widgetbite.com/banner?title=Werik%20Sousa&subtitle=Software%20Developer&backgroundpalette=autumn&fontpalette=none&titletransform=none&subtitletransform=none" width=50% height=20%/>
+<p align="center">
+  <span>
+    <img align="center" width="50%" src="4.png" />
+  </a>
+</p>
 
 ### Hi there 👋
 
